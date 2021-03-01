@@ -1,0 +1,19 @@
+body {
+  background-color: mediumblue;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  color: white;
+  border: white;
+  border-style: solid;
+  margin: 5% 20%;
+  padding: 1%;
+}
+
+h1 {
+  color: white;
+}
